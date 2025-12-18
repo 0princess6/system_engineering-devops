@@ -3,4 +3,4 @@ Bash
 
 #!/usr/bin/env bash
 # changes the group of hello to school
-chgrp school hello
+chgrp school hello 
