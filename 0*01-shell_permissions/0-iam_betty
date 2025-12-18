@@ -1,0 +1,6 @@
+Bash
+
+
+#!/usr/bin/env bash
+# switches the current user to betty
+su betty
