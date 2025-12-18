@@ -1,0 +1,6 @@
+Bash
+
+
+#!/bin/bash
+# deletes all .js files in current directories and subdirectories
+find. -type f -name"*.js" -delete
