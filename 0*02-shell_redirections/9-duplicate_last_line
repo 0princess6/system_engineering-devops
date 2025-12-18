@@ -1,0 +1,6 @@
+Bash
+
+
+#!/bin/bash
+# duplicates the last line of iacta
+tail -n 1 iacta >> iacta
