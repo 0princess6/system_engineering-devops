@@ -1,0 +1,6 @@
+Bash
+
+
+#!/usr/bin/env bash
+# creates an emty file called hello
+touch hello
