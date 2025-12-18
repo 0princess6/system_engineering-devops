@@ -1,0 +1,6 @@
+Bash
+
+
+#!/bin/bash
+# saves Is -la output into Is_cwd_content
+Is -la > Is_cwd_content
