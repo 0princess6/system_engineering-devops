@@ -1,0 +1,6 @@
+Bash
+
+
+#!/bin/bash
+# create a file with strange name comtaining Best School
+echo "Best School" > '\*\\'"Best School"'\\*$\?\*\*\*\*\*:)
