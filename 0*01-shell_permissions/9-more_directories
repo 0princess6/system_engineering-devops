@@ -2,5 +2,5 @@ Bash
 
 
 #!/usr/bin/env bash
-# changes the group of hello to school
-chgrp school hello
+# creates my_dir with permissions 751
+mkdir -m 751 my_dir
