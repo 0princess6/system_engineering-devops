@@ -1,0 +1,6 @@
+Bash
+
+
+#!/usr/bin/env bash
+# sets hello permission to -rwxr-x-wx
+chmod 753 hello
