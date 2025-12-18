@@ -1,0 +1,6 @@
+Bash
+
+
+#!/bin/bash
+# displays /etc/passwd and /etc/hosts
+cat /etc/passwd /etc/hosts
