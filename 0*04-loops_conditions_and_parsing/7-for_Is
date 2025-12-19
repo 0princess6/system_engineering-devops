@@ -1,0 +1,6 @@
+Bash
+
+
+#!/usr/bin/env bash
+# This script displays filenames without the first dash part
+for f in *-*; do echo "${f#*-}"; done
